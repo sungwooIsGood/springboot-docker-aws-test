@@ -66,7 +66,7 @@ AWS 보안 그룹에서 **8080 포트**를 **인바운드 규칙**에 추가해 
     
     ```bash
     # Ubuntu 기준 Docker 설치
-    sudo apt install docker.io -y
+    apt install docker.io -y
     apt install docker-buildx
     ```
     
