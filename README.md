@@ -1,4 +1,4 @@
-# springboot-docker-aws-test
+# springboot-docker-aws-build-study
 
 ## Prerequisites
 
